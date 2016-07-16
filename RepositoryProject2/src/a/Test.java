@@ -1,5 +1,5 @@
 package a;
-
+//This class would hold the main method.
 public class Test
 {
 
