@@ -2,6 +2,7 @@ package a;
 
 public class Employee
 {
+    //My policy if that age, would be of type int
     private int age;
 
     public Employee (int age)
