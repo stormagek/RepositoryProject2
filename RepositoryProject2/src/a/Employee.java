@@ -4,6 +4,7 @@ public class Employee
 {
     //My policy if that age, would be of type int
     private int age;
+    private String ID;
 
     public Employee (int age)
     {
